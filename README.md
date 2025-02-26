@@ -1,7 +1,7 @@
 <p align="center"><a href="#logo"><img src="https://raw.githubusercontent.com/mailmug/saudi-riyal-font/main/img.png" width="830" alt="SAR currency symbol Font"></a></p>
 
 
-# Saudi Arabian Riyal (SAR) currency symbol Font.  
+# Saudi Arabian Riyal (SAR) Currency Symbol Font.  
 
 Saudi Arabian Riyal (SAR) currency symbol.   It includes OTF and SVG formats
 
