@@ -1,4 +1,4 @@
-<p align="center"><a href="#logo"><img src="https://raw.githubusercontent.com/mailmug/laravel-easy-pos/main/img.png" width="400" alt="SAR currency symbol Font"></a></p>
+<p align="center"><a href="#logo"><img src="https://raw.githubusercontent.com/mailmug/saudi-riyal-font/main/img.png" width="400" alt="SAR currency symbol Font"></a></p>
 
 
 # Saudi Arabian Riyal (SAR) currency symbol Font.  
