@@ -12,6 +12,9 @@ Font Name is **Arshid**
 ## Usage
 To use the font, install the OTF file on your system.
 
+## Demo
+**Demo:** https://demo.phpbolt.com/demo.html
+
 ## How to use in HTML?
 
 ### 1. Using @font-face (Recommended)
